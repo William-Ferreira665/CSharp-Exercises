@@ -1,0 +1,32 @@
+C:\Users\willi\Desktop\C# Exercises\Resolutions\bin\Debug\net5.0\Resolutions.exe
+C:\Users\willi\Desktop\C# Exercises\Resolutions\bin\Debug\net5.0\Resolutions.deps.json
+C:\Users\willi\Desktop\C# Exercises\Resolutions\bin\Debug\net5.0\Resolutions.runtimeconfig.json
+C:\Users\willi\Desktop\C# Exercises\Resolutions\bin\Debug\net5.0\Resolutions.runtimeconfig.dev.json
+C:\Users\willi\Desktop\C# Exercises\Resolutions\bin\Debug\net5.0\Resolutions.dll
+C:\Users\willi\Desktop\C# Exercises\Resolutions\bin\Debug\net5.0\ref\Resolutions.dll
+C:\Users\willi\Desktop\C# Exercises\Resolutions\bin\Debug\net5.0\Resolutions.pdb
+C:\Users\willi\Desktop\C# Exercises\Resolutions\obj\Debug\net5.0\Resolutions.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\C# Exercises\Resolutions\obj\Debug\net5.0\Resolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C# Exercises\Resolutions\obj\Debug\net5.0\Resolutions.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C# Exercises\Resolutions\obj\Debug\net5.0\Resolutions.AssemblyInfo.cs
+C:\Users\willi\Desktop\C# Exercises\Resolutions\obj\Debug\net5.0\Resolutions.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C# Exercises\Resolutions\obj\Debug\net5.0\Resolutions.dll
+C:\Users\willi\Desktop\C# Exercises\Resolutions\obj\Debug\net5.0\ref\Resolutions.dll
+C:\Users\willi\Desktop\C# Exercises\Resolutions\obj\Debug\net5.0\Resolutions.pdb
+C:\Users\willi\Desktop\C# Exercises\Resolutions\obj\Debug\net5.0\Resolutions.genruntimeconfig.cache
+C:\Users\willi\Desktop\C# Exercises\First Resolution\bin\Debug\net5.0\Resolutions.exe
+C:\Users\willi\Desktop\C# Exercises\First Resolution\bin\Debug\net5.0\Resolutions.deps.json
+C:\Users\willi\Desktop\C# Exercises\First Resolution\bin\Debug\net5.0\Resolutions.runtimeconfig.json
+C:\Users\willi\Desktop\C# Exercises\First Resolution\bin\Debug\net5.0\Resolutions.runtimeconfig.dev.json
+C:\Users\willi\Desktop\C# Exercises\First Resolution\bin\Debug\net5.0\Resolutions.dll
+C:\Users\willi\Desktop\C# Exercises\First Resolution\bin\Debug\net5.0\ref\Resolutions.dll
+C:\Users\willi\Desktop\C# Exercises\First Resolution\bin\Debug\net5.0\Resolutions.pdb
+C:\Users\willi\Desktop\C# Exercises\First Resolution\obj\Debug\net5.0\Resolutions.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\C# Exercises\First Resolution\obj\Debug\net5.0\Resolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C# Exercises\First Resolution\obj\Debug\net5.0\Resolutions.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C# Exercises\First Resolution\obj\Debug\net5.0\Resolutions.AssemblyInfo.cs
+C:\Users\willi\Desktop\C# Exercises\First Resolution\obj\Debug\net5.0\Resolutions.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C# Exercises\First Resolution\obj\Debug\net5.0\Resolutions.dll
+C:\Users\willi\Desktop\C# Exercises\First Resolution\obj\Debug\net5.0\ref\Resolutions.dll
+C:\Users\willi\Desktop\C# Exercises\First Resolution\obj\Debug\net5.0\Resolutions.pdb
+C:\Users\willi\Desktop\C# Exercises\First Resolution\obj\Debug\net5.0\Resolutions.genruntimeconfig.cache

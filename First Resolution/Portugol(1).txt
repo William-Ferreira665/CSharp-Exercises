@@ -1,0 +1,21 @@
+Algoritmo "Conversor-idade"
+
+Var anos, meses, dias, horas, minutos : REAL
+
+Inicio
+
+Escreval("Conversor de anos iniciado")
+Escreva("Escreva sua idade: ")
+Leia(anos)
+
+meses := anos * 12
+dias := anos * 365
+horas := dias * 24
+minutos := horas * 60
+
+Escreval("Essa é sua idade em meses: ", meses)
+Escreval("Essa é sua idade em dias: ", dias)
+Escreval("Essa é sua idade em horas: ", horas)
+Escreval("Essa é sua idade em minutos: ", minutos)
+
+Fim do algoritmo
